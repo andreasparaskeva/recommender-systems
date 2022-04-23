@@ -1,2 +1,2 @@
 # Recommender Systems
-Notebook with several Recommender System approaches for the movielens dataset
+Implemented a movie recommendation system, using the MovieLens 1M dataset. Implementations included five different Naive approaches and a UV matrix decomposition Notebook with several. Dataset: [Movie Lens Dataset](http://grouplens.org/datasets/movielens/)
